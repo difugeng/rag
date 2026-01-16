@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+faiss-cpu
+pydantic
+requests
+dashscope
+rank_bm25
+numpy
+langchain-text-splitters
+tiktoken
+pydantic-settings
+docling
